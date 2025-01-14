@@ -7,7 +7,9 @@ Removes need for manual that might be error-prone processes.
 - [docs](https://developer.hashicorp.com/terraform/docs)
 - [cli docs](https://developer.hashicorp.com/terraform/cli)
     - `tenv`: Terraform environment manager
-- [tutorials](https://developer.hashicorp.com/terraform/tutorials)
+- tutorials
+  - [Hashicorp tutorials](https://developer.hashicorp.com/terraform/tutorials)
+  - [PluralSight](https://app.pluralsight.com/library/courses/terraform-deep-dive-2023/table-of-contents)
 - [style guide](https://developer.hashicorp.com/terraform/language/style)
 - [tests](https://developer.hashicorp.com/terraform/language/tests)
 
